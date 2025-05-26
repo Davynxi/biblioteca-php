@@ -1,0 +1,51 @@
+
+.os-content{
+    background-color: #c30303;
+    background: linear-gradient(90deg, #FEAE32, #FA3B20);
+    
+
+}
+
+.brand-link{
+    background-color: #c30303;
+    background: linear-gradient(90deg, #FEAE32, #FA3B20);
+    
+
+}
+
+.brand-text {
+    color: black;
+    font-weight: bold;
+    font-size: 29px;
+
+}
+
+.main-sidebar{
+    background-color: #c30303;
+    background: linear-gradient(90deg, #FEAE32, #FA3B20);
+
+
+
+}
+
+.inner{
+    background: #fff76a;
+}
+
+
+.small-box-footer{
+    width: 260px;
+    background: #e6e63d;
+    color: black;
+}
+.m-0{
+    color: black;
+    font-weight: bold;
+
+}
+
+.notification-item {
+    padding: 10px;
+    border-bottom: #ce2078 2px solid;
+    cursor: pointer;
+}
