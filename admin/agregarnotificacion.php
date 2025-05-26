@@ -1,5 +1,5 @@
 <?php
-	$conn = new mysqli("localhost","root","","biblioteca");
+	$conn = new mysqli("seguridadenredes.c6bkqwk8eqtu.us-east-1.rds.amazonaws.com","admin","VE9RzUIFtZ4A08GYHGQ8","biblioteca");
 	$count=0;
 	if(!empty($_POST['add'])) {
 		$autor = mysqli_real_escape_string($conn,$_POST["NOMBRE_COMPLETO"]);
